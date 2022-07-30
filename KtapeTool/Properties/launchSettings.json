@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KtapeTool": {
+      "commandName": "Project",
+      "commandLineArgs": "D:\\ktapenik.txt"
+    }
+  }
+}

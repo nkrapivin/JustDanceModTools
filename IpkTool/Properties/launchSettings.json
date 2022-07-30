@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "IpkTool": {
+      "commandName": "Project",
+      "commandLineArgs": "--verbose --input \"D:\\Garbage\\Downloads\\Torrents\\Just Dance 2017 - 2018 - 2019 - 2020 - 2021 - 2022 [NSP]\\PATCH_NSP\\PATCH_NCA_ROMFS\\vodovorot_nx.ipk\" --output \"D:\\Garbage\\Downloads\\Torrents\\Just Dance 2017 - 2018 - 2019 - 2020 - 2021 - 2022 [NSP]\\PATCH_NSP\\PATCH_NCA_ROMFS\\testtest\""
+    }
+  }
+}
